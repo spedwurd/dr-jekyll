@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Dr. Jekyll
+Dr. Jekyll is (probably) a super duper normal and generic Jekyll theme but I'll try
